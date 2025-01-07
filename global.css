@@ -1,3 +1,4 @@
+/* Global CSS file to block Mobirise banner */
 #mobiriseBanner {
-  display: none !important;
+  display: none !important; /* Hides the Mobirise promotional banner */
 }
